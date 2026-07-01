@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6f0098/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0098/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說如幻三摩地無量印法門經
+  identifiers:
+    krp: KR6f0098
+    cbeta: T12n0372
+    cbeta_old_id: T12n0372
+    authorityid: CA0002649
+    json_key: T0372
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0372.xml
+    old_id: T12n0372
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0098_000-T.yaml, hash: 'sha256:888d5635d3a213aa9c66a251ce35f0bb25ec85a02c5363b5cd5a2c4e280d9ba8'}
+  - {seq: 1, filename: KR6f0098_001-T.yaml, hash: 'sha256:719f5f65a3e0e2d062985b6e1aff5846208f6a55dc086991f9e8bd9c07227305'}
+  - {seq: 2, filename: KR6f0098_002-T.yaml, hash: 'sha256:2a3f219a7ce9fc0df54e849cc69750ec9602fb29a50987f030b7edcf61669119'}
+  - {seq: 3, filename: KR6f0098_003-T.yaml, hash: 'sha256:f1f482a986724517c5a19f1d02677cee2c57cd7807d39fd13a85a1360a13e342'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0098_000-T.markers.yaml, hash: 'sha256:e97a2a08b87855e56e899ac60981627f23d03552f1ca9f1ae82d139d5335a83b'}
+  - {seq: 1, role: markers, filename: assets/KR6f0098_001-T.markers.yaml, hash: 'sha256:74d4db79aa5c52f492b2f946aa634e5a9203bedc982a958abc3c0f5bb2179ce5'}
+  - {seq: 2, role: markers, filename: assets/KR6f0098_002-T.markers.yaml, hash: 'sha256:cd26c12c7805f779519e467b8ec5ffca039665668a90215ea3e268e73e161cf8'}
+  - {seq: 3, role: markers, filename: assets/KR6f0098_003-T.markers.yaml, hash: 'sha256:9e5362bd519df9df78331bca7eb123cf646c66a4205eef0b676177b73e6961fd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0098_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3008
+  label: '佛說如幻三摩地無量印法門經
+
+    卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0098_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 3093
+  label: '佛說如幻三摩地無量印法門經
+
+    卷中'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0098_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 2732
+  label: '佛說如幻三摩地無量印法門經
+
+    卷下'
+  type: juan
+  level: 1
+hash: sha256:a50fa59d57f306e99aefb095aa47a8757940f9dbf6a343fb3c0c6687c8595b8c

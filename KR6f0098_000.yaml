@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0098/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說如幻三摩地無量印法門經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0372.xml
+    old_id: T12n0372
+hash: sha256:888d5635d3a213aa9c66a251ce35f0bb25ec85a02c5363b5cd5a2c4e280d9ba8
